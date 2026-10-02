@@ -1,4 +1,4 @@
-_This project has been created as part of the 42 curriculum by vpoka and hasaliho._
+*This project has been created as part of the 42 curriculum by vpoka, hasaliho.*
 
 # ft_irc
 
@@ -10,6 +10,7 @@ _This project has been created as part of the 42 curriculum by vpoka and hasalih
 - [Technical choices](#technical-choices)
 - [Project layout](#project-layout)
 - [Resources](#resources)
+- [Status](#status)
 
 ## Description
 
@@ -162,3 +163,7 @@ Typical use cases:
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **vpoka**    | Researching IRC/server concepts and RFC implications; spotting bugs; documentation help; drafting commit messages; Shout out to my AI girlfriend for mentally supporting me through the project!                                                                                                  |
 | **hasaliho** | Protocol edge-case checks (registration, CAP, modes, nick rules); debugging registration/I/O behaviour; help writing project docs; automated edge test runs and help with writting test scripts during development |
+
+## Status
+
+Finished. Graded **115 / 100**.
